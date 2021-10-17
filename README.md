@@ -21,9 +21,9 @@ A self-taught Web Developer based in Jakarta, Indonesia. I am passionate about d
 # Connect with me
 
 <p>
-<a href="https://www.instagram.com/m_aprilians/"><img src="./assets/social-1.svg" wdith="100px" height="30px"></a>&emsp;
-<a href="https://www.linkedin.com/in/muklis-apriliansyah-4a23b3211/"><img src="./assets/social-2.svg" wdith="100px" height="30px"></a>&emsp;
-<a href="https://codepen.io/aprilianskull"><img src="./assets/social-4.svg" wdith="100px" height="30px"></a>&emsp;
+<a href="https://www.instagram.com/m_aprilians/"><img src="social-1.svg" wdith="100px" height="30px"></a>&emsp;
+<a href="https://www.linkedin.com/in/muklis-apriliansyah-4a23b3211/"><img src="social-2.svg" wdith="100px" height="30px"></a>&emsp;
+<a href="https://codepen.io/aprilianskull"><img src="social-4.svg" wdith="100px" height="30px"></a>&emsp;
 
 <hr>
 <h3 align="center"> Languages and Tools </h3> 

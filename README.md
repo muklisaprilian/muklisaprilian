@@ -90,7 +90,7 @@ A self-taught Web Developer based in Jakarta, Indonesia. I am passionate about d
 </tr>
 
   <tr>
-    <td align='center'>🚀 Front Web Development Frameworks  </td>
+    <td align='center'>🚀 Frontend Web Development Frameworks  </td>
     <td align='center'> 
       <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="70" height="40"/> </a> 
     </td>

@@ -2,7 +2,6 @@
 ![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
 
 # 👋 Glad to see you here! 
-
-<p><br/>
-Since the day I started working with computers but I found myself into a web designer and developer in 2016. I am proficient in creating a responsive website, developing web-based applications, processing databases, creating user interfaces, writing and testing code, solving simple/complex problems and implementing new features based on user feedback.<br/><br/>
+<p>
+Since the day I started working with computers but I found myself into a web designer and developer in 2016. I am proficient in creating a responsive website, developing web-based applications, processing databases, creating user interfaces, writing and testing code, solving simple/complex problems and implementing new features based on user feedback.
 </p>
